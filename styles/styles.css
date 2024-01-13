@@ -1,12 +1,13 @@
-ul{
+menu ul{
     display: flex;
     width: 100%;
     justify-content: space-evenly;
     list-style: none;
 }
-li{
+menu ul li{
     background-color: gray;
 }
-a{
+menu ul li a{
     color: black;
+    text-decoration: none;
 }
